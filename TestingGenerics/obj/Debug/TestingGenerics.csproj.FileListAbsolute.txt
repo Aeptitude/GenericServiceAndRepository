@@ -1,0 +1,10 @@
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\bin\Debug\TestingGenerics.dll.config
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\bin\Debug\TestingGenerics.dll
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\bin\Debug\TestingGenerics.pdb
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\bin\Debug\EntityFramework.dll
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\bin\Debug\EntityFramework.xml
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\obj\Debug\TestingGenerics.csprojResolveAssemblyReference.cache
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\obj\Debug\TestingGenerics.dll
+c:\users\parkerr\documents\visual studio 2015\Projects\TestingGenerics\TestingGenerics\obj\Debug\TestingGenerics.pdb
