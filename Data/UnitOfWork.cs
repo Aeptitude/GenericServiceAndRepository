@@ -16,7 +16,7 @@ namespace Data
             _context = context;
         }
 
-        public Repository<T> Repository<T>() where T : class, IEntity
+        public GenericRepository<T> Repository<T>() where T : class, IEntity
         {
             if (_repositories == null)
                 _repositories = new Dictionary<string, object>();
@@ -24,11 +24,11 @@ namespace Data
             var type = typeof(T).Name;
 
             if (_repositories.ContainsKey(type))
-                return (Repository<T>) _repositories[type];
+                return (GenericRepository<T>) _repositories[type];
 
-            _repositories.Add(type, Activator.CreateInstance(typeof(Repository<>).MakeGenericType(typeof(T)), _context));
+            _repositories.Add(type, Activator.CreateInstance(typeof(GenericRepository<>).MakeGenericType(typeof(T)), _context));
 
-            return (Repository<T>)_repositories[type];
+            return (GenericRepository<T>)_repositories[type];
         }
 
         public void Save()

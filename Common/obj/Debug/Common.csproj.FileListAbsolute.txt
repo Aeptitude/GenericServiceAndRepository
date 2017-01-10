@@ -1,0 +1,5 @@
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Common\bin\Debug\Common.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Common\bin\Debug\Common.pdb
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Common\obj\Debug\Common.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Common\obj\Debug\Common.pdb

@@ -1,16 +1,15 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Domain.Interfaces;
-using Models;
-using TestingGenerics.ViewModels;
+using Api.ViewModels;
+using Domain;
 
 namespace Api.Controllers
 {
     public class EmployeeController
     {
-        private readonly IService<Employee> _employeeService;
+        private readonly EmployeeService _employeeService;
 
-        public EmployeeController(IService<Employee> employeeService)
+        public EmployeeController(EmployeeService employeeService)
         {
             _employeeService = employeeService;
         }

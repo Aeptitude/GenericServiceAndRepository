@@ -1,6 +1,6 @@
-﻿using TestingGenerics.Models;
+﻿using Models;
 
-namespace TestingGenerics.ViewModels
+namespace Api.ViewModels
 {
     public class EmployeeViewModel
     {

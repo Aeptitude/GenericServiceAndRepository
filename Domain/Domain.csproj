@@ -40,9 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\IService.cs" />
+    <Compile Include="Calculators\EmployeeSalaryCalculator.cs" />
+    <Compile Include="Calculators\Interfaces\ISalaryCalculator.cs" />
+    <Compile Include="Calculators\ManagerSalaryCalculator.cs" />
+    <Compile Include="EmployeeService.cs" />
+    <Compile Include="Interfaces\IGenericService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Service.cs" />
+    <Compile Include="GenericService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Data\Data.csproj">

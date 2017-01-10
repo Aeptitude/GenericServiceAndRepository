@@ -1,0 +1,13 @@
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Domain.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Domain.pdb
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Data.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Models.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\EntityFramework.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Data.pdb
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Models.pdb
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\EntityFramework.xml
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\obj\Debug\Domain.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\obj\Debug\Domain.pdb
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Common.dll
+C:\Users\PARKERR\Documents\Visual Studio 2015\Projects\TestingGenerics\Domain\bin\Debug\Common.pdb
